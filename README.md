@@ -1,6 +1,6 @@
 <h2 align="center">PolarAnything: Diffusion-based Polarimetric Image Synthesis</h2>
 <h4 align="center">
-    <strong>Kailong Zhang<sup>†</sup></strong>
+     <a href="https://scholar.google.com/citations?user=cXbfQI0AAAAJ&hl=zh-CN&authuser=1"><strong>Kailong Zhang<sup>†</sup></strong></a>
     ·
     <a href="https://youweilyu.github.io/"><strong>Youwei Lyu<sup>†</sup></strong></a>
     ·
@@ -23,6 +23,7 @@
 </p>
 <div align="center">
 </div>
+
 
 <img src=assets/Teasor.png width=100% />
 
