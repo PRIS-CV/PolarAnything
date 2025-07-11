@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0dbdf8a0-4810-4874-94cc-a9274ff81c44" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/data/training_data/Polarization_Encoding/D0_0001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/Polarization_Encoding/D0_0002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/Polarization_Encoding/D0_0003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/Polarization_Encoding/D0_0004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/Polarization_Encoding/D0_0005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/Polarization_Encoding/D0_0006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/Polarization_Encoding/D0_0007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/Polarization_Encoding/D0_0008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/Polarization_Encoding/D0_0009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/Polarization_Encoding/D0_0010.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/RGB/D0_0001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/RGB/D0_0002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/RGB/D0_0003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/RGB/D0_0004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/RGB/D0_0005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/RGB/D0_0006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/RGB/D0_0007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/RGB/D0_0008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/RGB/D0_0009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/training_data/RGB/D0_0010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +56,8 @@
       <workItem from="1752130963986" duration="311000" />
       <workItem from="1752131564328" duration="261000" />
       <workItem from="1752131945152" duration="25000" />
+      <workItem from="1752134296581" duration="213000" />
+      <workItem from="1752137295226" duration="15000" />
     </task>
     <servers />
   </component>
