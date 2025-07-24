@@ -81,8 +81,15 @@ python infer.py \
 If you find this work helpful to your research, please cite:
 
 ```
-......
-camera-ready is coming soon!
+@misc{zhang2025polaranythingdiffusionbasedpolarimetricimage,
+      title={PolarAnything: Diffusion-based Polarimetric Image Synthesis}, 
+      author={Kailong Zhang and Youwei Lyu and Heng Guo and Si Li and Zhanyu Ma and Boxin Shi},
+      year={2025},
+      eprint={2507.17268},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.17268}, 
+}
 ```
 
 # Acknowledgements
