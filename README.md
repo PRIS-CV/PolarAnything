@@ -15,14 +15,15 @@
 <h4 align="center"><a href="https://iccv.thecvf.com/">ICCV 2025</a></h3>
 <p align="center">
   <br>
-    <a href="">
+    <a href="https://arxiv.org/abs/2507.17268">
       <img src='https://img.shields.io/badge/arXiv-Paper-981E32?style=for-the-badge&Color=B31B1B' alt='arXiv PDF'>
     </a>
-    <a href=''>
+    <a href='https://flzt11.github.io/PA_project/'>
       <img src='https://img.shields.io/badge/PolarAnything-Project Page-5468FF?style=for-the-badge' alt='Project Page'></a>
 </p>
 <div align="center">
 </div>
+
 
 
 <img src=assets/Teasor.png width=100% />
