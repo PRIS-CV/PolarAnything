@@ -95,4 +95,4 @@ If you find this work helpful to your research, please cite:
 
 # Acknowledgements
 
-This code is built on [Stable Diffusion](https://stability.ai/). We thank the authors for sharing their codes.
+This code is built on [Stable Diffusion](https://stability.ai/) and [Controlnet](https://github.com/lllyasviel/ControlNet). We thank the authors for sharing their codes.
